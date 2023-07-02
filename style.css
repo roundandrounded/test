@@ -1,0 +1,28 @@
+.class1 {
+    color: red;
+}
+
+.ziti {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.register {
+    text-align: center;
+    background-color: snow;
+    border-width: 5000px;
+}
+
+tr {
+    height: 50px;
+}
+
+table {
+    width: 60%;
+}
+
+body {
+    background-image: url(images/机甲少女.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
